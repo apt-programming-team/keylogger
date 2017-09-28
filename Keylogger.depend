@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1479621267 source:c:\users\noah\documents\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"KeyConstants.h"
+	"Helper.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1479775766 c:\users\noah\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1479614836 c:\users\noah\documents\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1479701808 c:\users\noah\documents\keylogger\base64.h
+	<vector>
+	<string>
+
+1479615249 c:\users\noah\documents\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1479617683 c:\users\noah\documents\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1479619460 c:\users\noah\documents\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Helper.h"
+	"Timer.h"
+
+1479625345 c:\users\noah\documents\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
